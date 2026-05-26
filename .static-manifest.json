@@ -1,0 +1,14 @@
+{
+    "domain": "digitalmediasydney.com.au",
+    "base_url": "https:\/\/digitalmediasydney.com.au",
+    "pages": 162,
+    "assets": 237,
+    "total_files": 399,
+    "total_size_mb": 84.18,
+    "output_dir": "\/tmp\/static-export\/digitalmediasydney.com.au",
+    "pages_failed": [
+        "https:\/\/digitalmediasydney.com.au\/comments\/feed\/"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 15:58:07"
+}
